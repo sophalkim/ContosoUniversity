@@ -1,8 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
+=======
+using System.Linq;
+>>>>>>> cdedb42fb26e75d3810445a8d432102a9560efa1
 using System.Web;
 
 namespace ContosoUniversity.Logging
